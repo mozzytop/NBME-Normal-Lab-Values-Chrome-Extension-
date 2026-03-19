@@ -24,8 +24,13 @@ A lightweight, searchable Chrome Side Panel extension designed by medical studen
 ## Usage
 * **Open**: Click the extension icon in your browser toolbar to open the Side Panel.
 * **Navigate**: Use the top tabs to switch between different lab categories.
-* **Search**: Type any lab name (e.g., "Sodium" or "HbA1c") into the search bar to find values instantly across the entire database.
+* **Search**: Type any lab name (e.g., "Sodium" or "A1c") into the search bar to find values instantly across the entire database.
 * **Clear**: Click the **✕** in the search bar to return to the categorized tab view.
+
+## Screenshots
+<img width="1465" height="797" alt="image" src="https://github.com/user-attachments/assets/f49032f8-de15-4d47-8c22-b4f1a28622db" />
+<img width="1464" height="802" alt="image" src="https://github.com/user-attachments/assets/24e3e6de-0610-4ef0-8210-964113b7c29d" />
+
 
 ## Project Structure
 * `manifest.json`: Extension configuration **(Manifest V3)**.
